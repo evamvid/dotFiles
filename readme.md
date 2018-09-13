@@ -1,6 +1,6 @@
 README
 
-##software: 
+# software: 
 
 * i3-gaps
 * polybar
@@ -19,11 +19,11 @@ README
 * qutebrowser
 * vivaldi
 
-##dotFiles:
+# dotFiles:
 * polybar: derived from [ycf83's](https://github.com/ycf83/dotfile)
 * i3
 * mopidy.conf
 
-##info:
+# info:
 
 The systemScripts folder has to be placed into ~/Documents/systemScripts (alternately, the paths can obviously just be changed to wherever you want to put them)
