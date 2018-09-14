@@ -7,7 +7,7 @@ README
 * rofi
 * rofi-dmenu
 * ranger
-* urxvt
+* urxvt (rxvt-unicode-cvs-patched-wideglyphs)
 * cava
 * ncmpcpp
 * mopidy
