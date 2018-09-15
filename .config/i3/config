@@ -1,4 +1,4 @@
-# This file is located in ~/Documents/"Programming Projects"/dotFiles, and symlinked to ~/.config/i3/config (where it needs to be in order for i3 to read it)
+# This file is located in ~/Documents/ProgrammingProjects/dotFiles, and symlinked to ~/.config/i3/config (where it needs to be in order for i3 to read it)
 
 # i3 config file (v4)
 #
@@ -218,9 +218,9 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5
 
 bindsym $mod+u exec pavucontrol
 
-#exec --no-startup-id i3-msg 'workspace number 4; exec --no-startup-id urxvt -hold -e ranger; split horizontal; exec sleep 0.5; exec --no-startup-id urxvt -hold -e ncmpcpp; move right; exec sleep 0.5; split vertical; exec --no-startup-id urxvt -hold -e cava; move down'
+exec --no-startup-id i3-msg 'workspace number 4; exec --no-startup-id urxvt -hold -e ranger; split horizontal; exec sleep 0.5; exec --no-startup-id urxvt -hold -e ncmpcpp; move right; exec sleep 0.5; split vertical; exec --no-startup-id urxvt -hold -e cava; move down; move right; focus left; focus up; shift down; shift down'
 
-exec --no-startup-id i3-msg 'workspace number 4; exec --no-startup-id urxvt -hold -e ranger; split vertical; exec --no-startup-id urxvt -hold -e ncmpcpp; focus right; focus right; move right'
+#exec --no-startup-id i3-msg 'workspace number 4; exec --no-startup-id urxvt -hold -e ranger; split vertical; exec --no-startup-id urxvt -hold -e ncmpcpp; focus right; focus right; move right'
 
 font -*-inconsolata-g-medium-r-normal-*-17-*-*-*-*-0-ascii-0
 
@@ -229,3 +229,5 @@ gaps inner 7
 for_window [class="^.*"] border pixel 5
 
 exec --no-startup-id setxkbmap us,de -option 'grp:win_space_toggle'
+
+

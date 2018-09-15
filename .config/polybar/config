@@ -7,7 +7,7 @@
 ;
 ;=====================================================
 
-;this file is located at ~/Documents/"Programming Projects"/dotFiles/.config/polybar/config and symlinked to ~/.config/dotFiles/config (where it needs to be for polybar to read it)
+;this file is located at ~/Documents/ProgrammingProjects/dotFiles/.config/polybar/config and symlinked to ~/.config/dotFiles/config (where it needs to be for polybar to read it)
 
 [colors]
 ;orange = #FF6200
