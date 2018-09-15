@@ -180,7 +180,7 @@ exec --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png
 
 
 exec --no-startup-id mopidy
-exec --no-startup-id devilspie2 -f ~/Documents/systemScripts
+exec --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
 
 #i3-gaps
 #gaps inner 10
@@ -196,15 +196,9 @@ bindsym XF86AudioStop exec playerctl stop
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86Tools exec gnome-calculator
-#the raise and lower volume using playerctl only changes the volume in the player app
-#the raise and lower volume using amixer works system-wide, but only if you're using the internal soundcard -- no USB audio devices!
-#raising and lowering using my custom script works system-wide by changing the volume for all ALSA sinks; relies on pamixer and pactl
-#bindsym XF86AudioRaiseVolume exec amixer -c 1 set Master 5+
-#bindsym XF86AudioLowerVolume exec amixer -c 1 set Master 5-
-#bindsym XF86AudioRaiseVolume exec playerctl volume 0.1+
-#bindsym XF86AudioLowerVolume exec playerctl volume 0.1-
-bindsym XF86AudioRaiseVolume exec ~/Documents/systemScripts/oneVolume.sh increase
-bindsym XF86AudioLowerVolume exec ~/Documents/systemScripts/oneVolume.sh decrease
+
+bindsym XF86AudioRaiseVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh increase
+bindsym XF86AudioLowerVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh decrease
 
 bindsym XF86AudioMute exec amixer -q set Master toggle
  
@@ -213,8 +207,6 @@ bindsym XF86AudioMute exec amixer -q set Master toggle
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5
  
-#bindsym $Mod+Space 
-#use this to switch keyboard layout!
 
 bindsym $mod+u exec pavucontrol
 

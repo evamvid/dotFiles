@@ -250,7 +250,7 @@ ws-icon-default =
 [module/mpdLabelScroll]
 type = custom/script
 format = <label>
-exec = /home/evamvid/Documents/systemScripts/mpcScrollerDynamic.sh
+exec = /home/evamvid/Documents/ProgrammingProjects/dotFiles/systemScripts/mpcScrollerDynamic.sh
 tail = true
 
 label-foreground = ${colors.foreground}
@@ -508,24 +508,3 @@ margin-bottom = 5
 
 ; vim:ft=dosini
 
-[module/redshift]
-type = custom/script
-interval = 5
-
-exec = ~/.config/polybar/custom/redshift.sh
-
-[module/music]
-type = custom/script
-interval = 2
-
-label = %output:0:45:...%
-exec = ~/.config/polybar/custom/mpris.sh
-
-[module/updates]
-type = custom/script
-interval = 60
-format = <label>
-format-underline = ${colors.alert}
-label = "%output:0:30%"
-exec = .config/polybar/custom/updates.sh
-exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
