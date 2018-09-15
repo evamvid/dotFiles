@@ -13,11 +13,13 @@ README
 * mopidy
 * mopidy-spotify
 * mopidy-scrobbler
-* devilspie2
-* playerctl
-* mpc
+* devilspie2 -- window scrpting help
+* mpc -- mpd scripting help
 * qutebrowser
 * vivaldi
+* pactl -- pulseaudio scripting help
+* playerctl -- mpris scripting help
+* zscroll
 
 # dotFiles:
 * polybar: derived from [ycf83's](https://github.com/ycf83/dotfile)
