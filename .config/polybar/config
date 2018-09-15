@@ -7,6 +7,8 @@
 ;
 ;=====================================================
 
+;this file is located at ~/Documents/"Programming Projects"/dotFiles/.config/polybar/config and symlinked to ~/.config/dotFiles/config (where it needs to be for polybar to read it)
+
 [colors]
 ;orange = #FF6200
 ;orange = #d65d0e
@@ -397,14 +399,18 @@ adapter = ADP1
 full-at = 98
 
 format-charging = <animation-charging> <label-charging>
-format-charging-underline = ${colors.alert}
+;format-charging-underline = ${colors.alert}
 
 format-discharging = <ramp-capacity> <label-discharging>
-format-discharging-underline = ${colors.primary}
+;ramp-capacity shows a a relative view of how much is left, the animation animates discharging
+;format-discharging = <animation-discharging><label-discharging>
+;format-discharging-underline = ${colors.primary}
 
-format-full-prefix = " "
+;format-full-prefix = " "
+;format-full-prefix = " "
+format-full =  <label-full>
 format-full-prefix-foreground = ${colors.foreground-alt}
-format-full-underline = ${colors.secondary}
+;format-full-underline = ${colors.secondary}
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
@@ -420,6 +426,13 @@ animation-charging-4 = 
 animation-charging-foreground = ${colors.foreground}
 animation-charging-framerate = 500
 
+animation-discharging-0 = 
+animation-discharging-1 = 
+animation-discharging-2 = 
+animation-discharging-3 = 
+animation-discharging-4 = 
+animation-discharging-foreground = ${colors.foreground}
+animation-discharging-framerate = 500
 
 [module/temperature]
 type = internal/temperature
