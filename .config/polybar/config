@@ -108,9 +108,9 @@ font-5 = Inconsolata:size=10
 
 position = top
 
-modules-left = i3 temperature cpu memory filesystem
-;modules-center =   mpd
-modules-center = mpdLabelScroll mpdButtons
+modules-left = i3 temperature cpu memory filesystem f1Countdown
+;modules-center  =   mpd
+modules-center =  mpdLabelScroll mpdButtons
 modules-right = xbacklight volume xkeyboard battery eth date powermenu
 
 
@@ -120,6 +120,15 @@ override-redirect = false
 
 scroll-up = i3wm-wsnext
 scroll-down = i3wm-wsprev
+
+[module/f1Countdown]
+type = custom/script
+exec = python ~/Documents/ProgrammingProjects/dotFiles/systemScripts/f1Countdown.py
+interval = 60
+format = <label>
+format-prefix = " "
+format-prefix-foreground = ${colors.foreground-alt}
+
 
 [module/xwindow]
 type = internal/xwindow
