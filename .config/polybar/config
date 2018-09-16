@@ -60,14 +60,13 @@ radius = 1.0
 ;fixed-center = true
 
 tray-position = right
-tray-padding = 5
-tray-background = ${colors.background}
+;tray-padding = 0
 
-tray-maxsize = 16
-tray-detached = false
-tray-transparent = false
+;tray-maxsize = 16
+;tray-detached = false
+;tray-transparent = false
 
-tray-scale = 1.0
+;tray-scale = 1.0
 
 
 
@@ -99,7 +98,7 @@ font-1 = Siji:size=12;1
 font-2 = "FontAwesome:style=Regular:pixelsize=10;1"
 font-3 = "FontAwesome:style=Regular:pixelsize=10;1"
 font-4 = "FontAwesome:style=Regular=10;1"
-font-5 = Inconsolata:size=10
+font-5 = Inconsolata:size=9
 #font-2 = "Font Awesome 5 Free Regular:style=Regular:pixelsize=8;1"
 #font-3 = "Font Awesome 5 Brands Regular:style=Regular:pixelsize=8;1"
 #font-4 = "Font Awesome 5 Free Solid:style=Solid:pixelsize=8;1"
@@ -111,8 +110,8 @@ position = top
 modules-left = i3 temperature cpu memory filesystem f1Countdown
 ;modules-center  =   mpd
 modules-center =  mpdLabelScroll mpdButtons
-modules-right = xbacklight volume xkeyboard battery eth date powermenu
-
+;modules-right = xbacklight volume xkeyboard battery eth wlan date powermenu
+modules-right = xbacklight volume xkeyboard battery eth wlan date
 
 ;wm-restack = 
 
@@ -179,6 +178,7 @@ label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = #295f48
 
 [module/bspwm]
+;keeping this around because it's required by the i3 module!
 type = internal/bspwm
 
 label-focused = %index%
@@ -265,6 +265,7 @@ tail = true
 label-foreground = ${colors.foreground}
 label-font = 6
 
+
 [module/mpdButtons]
 type = internal/mpd
 format-online = <icon-prev> <icon-stop> <toggle> <icon-next>
@@ -277,29 +278,6 @@ icon-next = 
 
 label-song-maxlen = 25
 label-song-ellipsis = true
-
-[module/backlight]
-type = internal/backlight
-card = intel_backlight
-
-format = <bar> <label>
-format-prefix = " "
-
-bar-width = 10
-bar-indicator = |
-bar-indicator-foreground = #ff
-bar-indicator-font = 2
-bar-fill = ─
-bar-fill-font = 2
-bar-fill-foreground = ${colors.alert}
-bar-empty = ─
-bar-empty-font = 2
-bar-empty-foreground = ${colors.foreground-alt}
-
-[module/backlight-acpi]
-inherit = module/backlight
-type = internal/backlight
-card = intel_backlight
 
 [module/cpu]
 type = internal/cpu
@@ -319,7 +297,7 @@ label = %percentage_used%%
 
 [module/wlan]
 type = internal/network
-interface = wlp2s0
+interface = wlp3s0
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
@@ -467,10 +445,10 @@ type = custom/menu
 
 format-spacing = 1
 
-label-open = 
-label-open-foreground = ${colors.primary}
+label-open = open
+label-open-foreground = ${colors.foreground}
 label-close =  cancel
-label-close-foreground = ${colors.primary}
+label-close-foreground = ${colors.foreground}
 label-separator = |
 label-separator-foreground = ${colors.foreground-alt}
 
@@ -494,7 +472,7 @@ menu-2-1 = cancel
 menu-2-1-exec = menu-open-0
 
 menu-3-0 = suspend
-menu-3-0-exec = suspend
+menu-3-0-exec = systemctl suspend
 menu-3-1 = cancel
 menu-3-1-exec = menu-open-0
 
