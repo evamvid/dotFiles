@@ -170,7 +170,7 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 #from here down, evam's edits!
 
-exec --no-startup-id gnome-settings-daemon
+#exec --no-startup-id gnome-settings-daemon
 exec --no-startup-id nm-applet
 exec --no-startup-id gnome-sound-applet
 
