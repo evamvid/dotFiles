@@ -2,18 +2,22 @@ README
 
 # software: 
 
+* refind
+* lightdm
+* lightdm-webkit2-greeter
+* litarvan-lightdm-webkit2-greeter-theme
 * i3-gaps
 * polybar
 * rofi
 * rofi-dmenu
 * ranger
-* urxvt (rxvt-unicode-cvs-patched-wideglyphs)
+* urxvt
 * cava
 * ncmpcpp
 * mopidy
 * mopidy-spotify
 * mopidy-scrobbler
-* devilspie2 -- window scrpting help
+* devilspie2 -- window scripting help
 * mpc -- mpd scripting help
 * qutebrowser
 * vivaldi
@@ -24,7 +28,7 @@ README
 # dotFiles:
 * polybar: derived from [ycf83's](https://github.com/ycf83/dotfile)
 * i3
-* mopidy.conf
+* mopidy
 
 # info:
 
