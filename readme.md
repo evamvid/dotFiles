@@ -24,6 +24,7 @@ README
 * pactl -- pulseaudio scripting help
 * playerctl -- mpris scripting help
 * zscroll
+* syndaemon
 
 # dotFiles:
 * polybar: derived from [ycf83's](https://github.com/ycf83/dotfile)

@@ -35,7 +35,7 @@ URxvt.saveLines:            100
 URxvt.internalBorder:       3
 URxvt.lineSpace:            0
 
-URxvt*transparent: true
+URxvt*transparent: false
 URxvt*shading: 10
 
 ! Fonts
