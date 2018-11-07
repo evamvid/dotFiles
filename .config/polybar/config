@@ -85,8 +85,8 @@ border-color = #00000000
 padding-left = 0
 padding-right = 2
 
-module-margin-left = 2
-module-margin-right = 2
+module-margin-left = 1
+module-margin-right = 1
 
 #font-0 = fixed:pixelsize=10;1
 #font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
@@ -111,7 +111,7 @@ modules-left = i3 temperature cpu memory filesystem f1Countdown
 ;modules-center  =   mpd
 modules-center =  mpdLabelScroll mpdButtons
 ;modules-right = xbacklight volume xkeyboard battery eth wlan date powermenu
-modules-right = xbacklight volume xkeyboard battery eth wlan date
+modules-right = updateCounter xbacklight volume xkeyboard battery eth wlan date
 
 ;wm-restack = 
 
@@ -128,6 +128,11 @@ format = <label>
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
 
+[module/updateCounter]
+type = custom/script
+exec = ~/Documents/ProgrammingProjects/dotFiles/systemScripts/updates.sh
+interval = 60
+format = <label>
 
 [module/xwindow]
 type = internal/xwindow
@@ -340,10 +345,10 @@ type = internal/date
 interval = 5
 
 
-date = " %d.%m.%Y |"
-date-alt = " %Y.%m.%d |"
+date = " %d.%m |"
+date-alt = " %m.%d.%Y |"
 
-time =   %H:%M
+time =  %H:%M
 time-alt =  %H:%M:%S
 
 ;format-prefix = 
