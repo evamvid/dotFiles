@@ -177,7 +177,7 @@ exec_always --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png
 
 
 exec --no-startup-id mopidy
-exec --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
+exec_always --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
 
 #i3-gaps
 #gaps inner 10
