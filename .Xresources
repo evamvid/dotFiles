@@ -52,9 +52,12 @@ URxvt.scrollStyle:          rxvt
 URxvt.scrollBar:            false
 
 ! Perl extensions
-URxvt.perl-ext-common:      default,matcher
+URxvt.perl-ext-common:      default,matcher, clipboard
 URxvt.matcher.button:       1
-URxvt.urlLauncher:          vivaldi
+URxvt.urlLauncher:          firefox
+
+URxvt.keysym.Shift-Control-C: perl:clipboard:copy
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
 
 ! Cursor
 URxvt.cursorBlink:          true
