@@ -216,6 +216,8 @@ gaps inner 7
 
 for_window [class="^.*"] border pixel 5
 
-exec --no-startup-id setxkbmap us,de -option 'grp:win_space_toggle'
+#exec --no-startup-id setxkbmap us,de -option 'grp:win_space_toggle'
+exec --no-startup-id setxbmap us,de
 
+bindsym $mod+space exec xkb-switch -n
 
