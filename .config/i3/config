@@ -180,11 +180,16 @@ exec_always --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png
 #exec_always --no-startup-id mopidy
 exec_always --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
 
+exec_always --no-startup-id ~/Documents/ProgrammingProjects/dotFiles/systemScripts/spotifyTrackChange.py
+
 #i3-gaps
 #gaps inner 10
 #gaps outer 0
 
-bindsym $mod+Escape exec i3lock --blur=15 --clock --indicator --insidecolor=232C31FF --ringcolor=9EA7A6FF --line-uses-inside --keyhlcolor=2A5491FF --bshlcolor=A03B1EFF --insidevercolor=232C31FF --insidewrongcolor=A03B1Eff --ringvercolor=9EA7A6FF --ringwrongcolor=3F4944FF --separatorcolor=2A5491FF --verifcolor=FFFFFFFF --wrongcolor=232C31FF --timecolor=9EA7A6FF --datecolor=9EA7A6FF 
+#bindsym $mod+Escape exec i3lock --blur=15 --clock --indicator --insidecolor=232C31FF --ringcolor=9EA7A6FF --line-uses-inside --keyhlcolor=2A5491FF --bshlcolor=A03B1EFF --insidevercolor=232C31FF --insidewrongcolor=A03B1Eff --ringvercolor=9EA7A6FF --ringwrongcolor=3F4944FF --separatorcolor=2A5491FF --verifcolor=FFFFFFFF --wrongcolor=232C31FF --timecolor=9EA7A6FF --datecolor=9EA7A6FF 
+
+bindsym $mod+Escape exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/lock.sh
+
 bindsym $mod+Shift+p exec i3lock --blur=10 --clock --indicator --insidecolor=232C31FF --ringcolor=9EA7A6FF --line-uses-inside --keyhlcolor=2A5491FF --bshlcolor=A03B1EFF --insidevercolor=232C31FF --insidewrongcolor=A03B1Eff --ringvercolor=9EA7A6FF --ringwrongcolor=3F4944FF --separatorcolor=2A5491FF --verifcolor=FFFFFFFF --wrongcolor=232C31FF --timecolor=9EA7A6FF --datecolor=9EA7A6FF && systemctl suspend
 
 # sound shortcuts
