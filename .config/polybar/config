@@ -107,9 +107,9 @@ font-5 = Inconsolata:size=9
 
 position = top
 
-modules-left = i3 temperature cpu memory filesystem f1Countdown
+modules-left = i3 temperature cpu memory filesystem f1Countdown weather
 ;modules-center  =   mpd
-modules-center =  mpdLabelScroll mpdButtons
+modules-center =  mpdLabelScroll mpdButtons 
 ;modules-right = xbacklight volume xkeyboard battery eth wlan date powermenu
 modules-right = updateCounter xbacklight volume xkeyboard battery eth wlan date
 
@@ -131,6 +131,12 @@ format-prefix-foreground = ${colors.foreground-alt}
 [module/updateCounter]
 type = custom/script
 exec = ~/Documents/ProgrammingProjects/dotFiles/systemScripts/updates.sh
+interval = 60
+format = <label>
+
+[module/weather]
+type = custom/script
+exec = ~/Documents/ProgrammingProjects/dotFiles/systemScripts/weather.sh
 interval = 60
 format = <label>
 

@@ -53,6 +53,11 @@ class SpotifyNotifier(object):
     def handle_properties_changed(self, interface, changed_props, invalidated_props):
         print("properties changed")
         call('~/Documents/ProgrammingProjects/dotFiles/systemScripts/downloadAlbumArt.sh', shell=True)
+        i3lock = call('ps -aux | grep [i]3lock', shell=True)
+        print(i3lock)
+        if(i3lock):
+            call('killall i3lock', shell=True)
+            call('~Documents/ProgrammingProjects/dotFiles/systemScripts/lock.sh', shell=True)
 
 if __name__ == "__main__":
     SpotifyNotifier()
