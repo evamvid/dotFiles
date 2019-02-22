@@ -167,6 +167,8 @@ bindsym $mod+r mode "resize"
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id compton
 
+exec --no-startup-id rofi -show drun
+exec --no-startup-id killall rofi
 
 #exec --no-startup-id gnome-settings-daemon
 exec --no-startup-id nm-applet
