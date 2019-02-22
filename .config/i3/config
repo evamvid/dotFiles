@@ -174,6 +174,8 @@ exec --no-startup-id killall rofi
 exec --no-startup-id nm-applet
 exec --no-startup-id gnome-sound-applet
 
+exec wal --theme sexy-derp
+
 exec --no-startup-id syndaemon -i .5 -K -R -v -d
 
 #exec_always --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png

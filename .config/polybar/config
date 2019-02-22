@@ -22,9 +22,9 @@ red = #F2AF29
 blue = #337CA0
 yellow = #FFFC31
 green = #3EC300
-#background = #1f222d
-background = ${xrdb:background}
-background-alt = #40545E
+background = #ff1f222d
+#background = ${xrdb:background}
+background-alt = #ff40545E
 #foreground = #dfdfdf
 foreground = ${xrdb:foreground}
 foreground-alt = #55
@@ -73,7 +73,7 @@ tray-position = right
 
 padding = 0
 
-background = #66424242
+background = #88424242
 foreground = ${colors.foreground}
 
 line-size = 3

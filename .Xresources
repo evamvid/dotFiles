@@ -36,7 +36,7 @@ URxvt.internalBorder:       3
 URxvt.lineSpace:            0
 
 URxvt*transparent: false
-URxvt*shading: 10
+URxvt*shading: 5
 
 ! Fonts
 URxvt.allow_bold:           true
@@ -67,6 +67,7 @@ URxvt.cursorUnderline:      false
 ! Pointer
 URxvt.pointerBlank:         true
 
+Urxvt.url-launcher: firefox
 
 
 !!Source http://github.com/altercation/solarized
@@ -181,6 +182,7 @@ URxvt.pointerBlank:         true
 
 ! Base16 Darktooth
 ! Scheme: Jason Milkins (https://github.com/jasonm23)
+
 
 #define base00 #1d2021
 #define base01 #32302f
