@@ -174,8 +174,8 @@ exec --no-startup-id gnome-sound-applet
 
 exec --no-startup-id syndaemon -i .5 -K -R -v -d
 
-exec_always --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png
-
+#exec_always --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png
+exec_always feh --randomize --bg-fill ~/Pictures/i3Wallpapers
 
 #exec_always --no-startup-id mopidy
 exec_always --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
@@ -213,7 +213,7 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5
 
 bindsym $mod+u exec pavucontrol
 
-exec --no-startup-id i3-msg 'workspace number 4; exec --no-startup-id urxvt -hold -e ranger; split horizontal; exec sleep 0.5; exec --no-startup-id urxvt -hold -e ncmpcpp'
+#exec --no-startup-id i3-msg 'workspace number 4; exec --no-startup-id urxvt -hold -e ranger; split horizontal; exec sleep 0.5; exec --no-startup-id urxvt -hold -e ncmpcpp'
 
 font -*-inconsolata-g-medium-r-normal-*-17-*-*-*-*-0-ascii-0
 
