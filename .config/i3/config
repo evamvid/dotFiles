@@ -175,6 +175,7 @@ exec --no-startup-id nm-applet
 exec --no-startup-id gnome-sound-applet
 
 exec wal --theme sexy-derp
+#exec wal --theme sexy-mikado
 
 exec --no-startup-id syndaemon -i .5 -K -R -v -d
 
