@@ -181,6 +181,9 @@ exec wal --theme sexy-derp
 
 exec --no-startup-id syndaemon -i .5 -K -R -v -d
 
+exec_always --no-startup-id kill $(ps -aux | grep [s]potifyTrackChange | awk '{ print $2 }') &&  ~/Documents/ProgrammingProjects/dotFiles/systemScripts/spotifyTrackChange.py
+#The above line should kill all instances of my track change Daemon every time the i3 env is reloaded! A fresh instance will then be started afterwards.
+
 #exec_always --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png
 exec_always feh --randomize --bg-fill ~/Pictures/i3Wallpapers
 
