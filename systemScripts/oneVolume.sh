@@ -5,6 +5,7 @@ VOLUME_DOWN='-5%'
 
 echo $VOLUME_UP
 STATUS="$(playerctl status)"
+SPOTIFYSTATUS="$(playerctl --player=spotify status)"
 echo $STATUS
 
 #the following functions take as the first argument increase or decrease, and as the second the amount.
@@ -38,7 +39,7 @@ function systemVolume {
   done  
 }
   
-if [ $STATUS == "Playing" ]; then
+if [ $STATUS == "Playing" ] && [ $SPOTIFYSTATUS != "Playing" ]; then
   #echo "testing"
   if [ $1 == "increase" ]; then
     mprisVolume increase 0.05
@@ -52,7 +53,7 @@ if [ $STATUS == "Playing" ]; then
     mprisVolume decrease 0.05
   fi
 fi
-if [ $STATUS == "Paused" ] || $(grep -Fq 'Stopped' <<< $STATUS) ; then
+if [ $STATUS == "Paused" ] || $(grep -Fq 'Stopped' <<< $STATUS) || [ $SPOTIFYSTATUS == "Playing" ]; then
     if [ $1 = "increase" ]; then
       systemVolume increase 5%
     fi
