@@ -182,7 +182,11 @@ exec wal --theme sexy-derp
 #exec wal --theme base16-bright
 #exec wal --theme base16-google
 
+#protects against cursor jumps due to palms hitting touchpad while typing
 exec --no-startup-id syndaemon -i .5 -K -R -v -d
+
+#implements "natural scrolling" -- move fingers up to move view down (i.e. move content up with fingers)
+exec --no-startup-id synclient HorizEdgeScroll=1 VertEdgeScroll=1 VertScrollDelta=-111
 
 exec_always --no-startup-id kill $(ps -aux | grep [s]potifyTrackChange | awk '{ print $2 }') &&  ~/Documents/ProgrammingProjects/dotFiles/systemScripts/spotifyTrackChange.py
 #The above line should kill all instances of my track change Daemon every time the i3 env is reloaded! A fresh instance will then be started afterwards.
