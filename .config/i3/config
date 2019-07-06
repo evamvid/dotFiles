@@ -199,7 +199,7 @@ exec_always --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFil
 
 exec_always --no-startup-id ~/Documents/ProgrammingProjects/dotFiles/systemScripts/spotifyTrackChange.py
 
-exec_always --no-startup-id fluxgui
+exec --no-startup-id fluxgui
 
 #i3-gaps
 #gaps inner 10
