@@ -176,10 +176,10 @@ exec --no-startup-id gnome-sound-applet
 
 exec_always --no-startup-id touch /tmp/albumArt.png
 
-exec wal --theme sexy-derp
+#exec wal --theme sexy-derp
 #exec wal --theme sexy-mikado
 #exec wal --theme sexy-colorfulcolors
-#exec wal --theme base16-bright
+exec wal --theme base16-bright
 #exec wal --theme base16-google
 
 #protects against cursor jumps due to palms hitting touchpad while typing
