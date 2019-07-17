@@ -15,4 +15,5 @@ endif
 call plug#begin('~/.vim/plugged')
 " A Vim Plugin for Lively Previewing LaTeX PDF Output
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+Plug 'scrooloose/nerdtree'
 call plug#end()
