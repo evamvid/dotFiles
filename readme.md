@@ -12,7 +12,7 @@ README
 * rofi
 * rofi-dmenu
 * ranger
-* urxvt
+* ~~urxvt~~ alacriTTY
 * cava
 * ncmpcpp
 * mopidy
@@ -27,6 +27,9 @@ README
 * zscroll
 * syndaemon
 * [Browser-mpris2](https://github.com/BobbyWibowo/browser-mpris2)
+* entr -- filesystem monitoring
+* ncspot
+
 
 # dotFiles:
 * polybar: derived from [ycf83's](https://github.com/ycf83/dotfile)

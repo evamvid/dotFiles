@@ -195,7 +195,9 @@ exec_always --no-startup-id kill $(ps -aux | grep [s]potifyTrackChange | awk '{ 
 exec_always feh --randomize --bg-fill ~/Pictures/i3Wallpapers
 
 #exec_always --no-startup-id mopidy
-exec_always --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
+#exec_always --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
+
+exec --no-startup-id lsd /home/evamvid/Documents/TU\ Darmstadt/budgets | entr sh gitPush.sh
 
 exec_always --no-startup-id ~/Documents/ProgrammingProjects/dotFiles/systemScripts/spotifyTrackChange.py
 
