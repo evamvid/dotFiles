@@ -164,6 +164,9 @@ bindsym $mod+r mode "resize"
 
 #from here down, evam's edits!
 
+bindsym XF86Forward workspace next
+bindsym XF86Back workspace prev
+
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id compton
 
