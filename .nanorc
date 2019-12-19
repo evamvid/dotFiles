@@ -1,3 +1,0 @@
-#this is located at ~/Documents/ProgrammingProject/dotFiles/.nanorc and symlinked to ~/.nanorc, where nano looks for it!
-
-include /usr/share/nano/*
