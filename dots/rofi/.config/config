@@ -1,0 +1,19 @@
+!This document is located at ~/Documents/ProgrammingProjects/dotFiles/.config/rofi/config, and symlinked to ~/.config/rofi/config, where rofi will look for it!
+
+rofi.color-enabled:                  true
+! Color scheme for normal row
+rofi.color-normal:                   argb:00ffffff, #a2b5df, argb:3affffff, #a2b5df, #02143f
+! Color scheme for urgent row
+rofi.color-urgent:                   argb:00ffffff, #ff817f, argb:00ffffff, #ff817f, #02143f
+! Color scheme for active row
+rofi.color-active:                   argb:00ffffff, #6aa4ff, argb:3affffff, #6aa4ff, #02143f
+! Color scheme window
+rofi.color-window:                   argb:00ffffff, #a2b5df, #a2b5df
+! Separator style (none, dash, solid)
+rofi.separator-style:                none
+
+rofi.transparency:		     real
+rofi.width:			     100
+rofi.location:		             0
+rofi.lines:			     10
+rofi.padding:			     350
