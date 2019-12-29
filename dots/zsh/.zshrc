@@ -102,3 +102,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 alias ls="lsd -l --date relative --group-dirs first"
+alias code="code --disable-gpu"
+
+eval $(thefuck --alias)
