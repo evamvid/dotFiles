@@ -25,6 +25,7 @@ font pango:monospace 8
 floating_modifier $mod
 
 # start a terminal
+#bindsym $mod+Return exec urxvt
 bindsym $mod+Return exec alacritty
 
 # kill focused window
@@ -167,6 +168,8 @@ bindsym $mod+r mode "resize"
 bindsym XF86Forward workspace next
 bindsym XF86Back workspace prev
 
+exec_always --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id compton
 
@@ -218,6 +221,7 @@ bindsym $mod+Escape exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/
 
 bindsym $mod+Shift+p exec i3lock --blur=10 --clock --indicator --insidecolor=232C31FF --ringcolor=9EA7A6FF --line-uses-inside --keyhlcolor=2A5491FF --bshlcolor=A03B1EFF --insidevercolor=232C31FF --insidewrongcolor=A03B1Eff --ringvercolor=9EA7A6FF --ringwrongcolor=3F4944FF --separatorcolor=2A5491FF --verifcolor=FFFFFFFF --wrongcolor=232C31FF --timecolor=9EA7A6FF --datecolor=9EA7A6FF && systemctl suspend
 
+
 # sound shortcuts
 #none of these work; I believe it's due to the playerctl business! 
 bindsym XF86AudioPlay exec playerctl play-pause
@@ -226,8 +230,11 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86Tools exec gnome-calculator
 
-bindsym XF86AudioRaiseVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh increase
-bindsym XF86AudioLowerVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh decrease
+#bindsym XF86AudioRaiseVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh increase
+#bindsym XF86AudioLowerVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh decrease
+
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 0 +1dB
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume 0 -1dB
 
 bindsym XF86AudioMute exec amixer -q set Master toggle
  

@@ -1,5 +1,6 @@
 ;=====================================================
 ;
+;
 ;   To learn more about how to configure Polybar
 ;   go to https://github.com/jaagr/polybar
 ;
@@ -130,7 +131,8 @@ font-5 = Inconsolata:size=9
 
 position = top
 
-modules-left = i3 temperature cpu memory filesystem f1Countdown weather
+;modules-left = i3 temperature cpu memory filesystem f1Countdown weather
+modules-left = i3 temperature cpu memory filesystem weather
 ;modules-center  =   mpd
 modules-center =  mpdLabelScroll mpdButtons 
 ;modules-right = xbacklight volume xkeyboard battery eth wlan date powermenu
@@ -207,7 +209,6 @@ type = internal/fs
 interval = 25
 
 mount-0 = /
-mount-1 = /home
 
 label-mounted = %{F#f2b313}%mountpoint%%{F-}: %percentage_used%%
 label-unmounted = %mountpoint% not mounted
@@ -334,7 +335,7 @@ label = %percentage_used%%
 
 [module/wlan]
 type = internal/network
-interface = wlp3s0
+interface = wlp0s20f3
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
