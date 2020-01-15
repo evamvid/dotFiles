@@ -1,0 +1,1605 @@
+BEGIN:VCALENDAR
+NAME:Hornets
+X-WR-CALNAME:Hornets
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:66th NBA All-Star Game
+END:VALARM
+DTSTART:20170220T010000Z
+DTEND:20170220T040000Z
+UID:FlSByu-T_bwe6VqzjPYdMH-l@stanza.co
+SUMMARY:66th NBA All-Star Game
+DESCRIPTION:66th NBA All-Star Game\n\nWatch the game live on TNT or stream here: https://stza.co/+p7xw-2R?trk=NlcZ\n\nBuy NBA All-Star Gear: https://stza.co/+p7xw-2P?trk=NlcZ\n\nSubscribe to NBA Top Game of the Day: https://stza.co/+p7xw-3W?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Watch the game live on TNT or stream here: http://bit.ly/2diHlgQ
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170622T230000Z
+DTEND:20170623T010000Z
+UID:Igu1Oueqi4pvZbwewBBvW9mn@stanza.co
+SUMMARY:2017 NBA Draft
+DESCRIPTION:Watch on ESPN\n\nMore Info: https://stza.co/+rguv-2y?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Barclays Center\, Brooklyn\, New York
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Celtics
+END:VALARM
+DTSTART:20191006T220000Z
+DTEND:20191007T010000Z
+UID:XJL4lv07pmx_lTNQ8yTLz6uU@stanza.co
+SUMMARY:Hornets at Celtics (L: 106-107)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:TD Garden\, 100 Legends Way\, Boston\, MA 02114
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Heat
+END:VALARM
+DTSTART:20191009T233000Z
+DTEND:20191010T023000Z
+UID:oM0HWxrOcgrlJqb3ycgIHVN_@stanza.co
+SUMMARY:Hornets vs. Heat (L: 94-108)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Hf$Q?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. 76ers
+END:VALARM
+DTSTART:20191011T233000Z
+DTEND:20191012T023000Z
+UID:FIYSgYowipMG6wC1Ipa8QYl4@stanza.co
+SUMMARY:Hornets vs. 76ers (L: 87-100)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Grizzlies
+END:VALARM
+DTSTART:20191015T000000Z
+DTEND:20191015T030000Z
+UID:fhoeZ5Dm2-x_pQCMJmmRa9lU@stanza.co
+SUMMARY:Hornets at Grizzlies (W: 120-99)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:FedEx Forum\, 191 Beale St\, Memphis\, TN 38103
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Pistons
+END:VALARM
+DTSTART:20191016T230000Z
+DTEND:20191017T020000Z
+UID:8qxe2eorKJPq0EZ5JaSQuLFt@stanza.co
+SUMMARY:Hornets vs. Pistons (L: 110-116)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Bulls
+END:VALARM
+DTSTART:20191023T230000Z
+DTEND:20191024T020000Z
+UID:JepcW3F5BpWparm3uoauoW2V@stanza.co
+SUMMARY:Hornets vs. Bulls (W: 126-125)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtM?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Wolves
+END:VALARM
+DTSTART:20191025T230000Z
+DTEND:20191026T020000Z
+UID:a4MZJ5g_kaFuPVQVyCd566XG@stanza.co
+SUMMARY:Hornets vs. Wolves (L: 99-121)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtP?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Lakers
+END:VALARM
+DTSTART:20191028T013000Z
+DTEND:20191028T043000Z
+UID:Z4kBcQg4kQpLbp2BxP_vKWN-@stanza.co
+SUMMARY:Hornets at Lakers (L: 101-120)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtQ?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Staples Center\, 1111 S Figueroa St\, Los Angeles\, CA 90015
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Clippers
+END:VALARM
+DTSTART:20191029T023000Z
+DTEND:20191029T053000Z
+UID:aUQ93Xgq29eZapo6JvQi5hK3@stanza.co
+SUMMARY:Hornets at Clippers (L: 96-111)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtR?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Staples Center\, 1111 S Figueroa St\, Los Angeles\, CA 90015
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Kings
+END:VALARM
+DTSTART:20191031T020000Z
+DTEND:20191031T050000Z
+UID:RSkor18ycDckw3No7iRpsF-1@stanza.co
+SUMMARY:Hornets at Kings (W: 118-111)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtS?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Golden 1 Center\, 500 David J Stern Walk\, Sacramento\, CA 95814
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Warriors
+END:VALARM
+DTSTART:20191103T003000Z
+DTEND:20191103T033000Z
+UID:ub07N7CfcIcDgZd5ir0hBj2R@stanza.co
+SUMMARY:Hornets at Warriors (W: 93-87)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtT?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Chase Center\, 1 Warriors Way\, San Francisco\, CA 94158
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Pacers
+END:VALARM
+DTSTART:20191106T000000Z
+DTEND:20191106T030000Z
+UID:z1i7KdEUsRmFpoG-1nS4urRs@stanza.co
+SUMMARY:Hornets vs. Pacers (W: 122-120)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtV?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Celtics
+END:VALARM
+DTSTART:20191108T010000Z
+DTEND:20191108T040000Z
+UID:SEl72WKIG4v2Nj4bY_YUgYrQ@stanza.co
+SUMMARY:Hornets vs. Celtics (L: 87-108)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtX?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Pelicans
+END:VALARM
+DTSTART:20191110T000000Z
+DTEND:20191110T030000Z
+UID:8KV6FEGqOzVzlbcmeZSv3P9x@stanza.co
+SUMMARY:Hornets vs. Pelicans (L: 110-115)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvtZ?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at 76ers
+END:VALARM
+DTSTART:20191110T230000Z
+DTEND:20191111T020000Z
+UID:LkYU1Qh3nWYArOWyUUX2oK7C@stanza.co
+SUMMARY:Hornets at 76ers (L: 106-114)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Wells Fargo Center Philadelphia\, 3601 S Broad St\, Philadelphia\, PA 19148
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Grizzlies
+END:VALARM
+DTSTART:20191114T000000Z
+DTEND:20191114T030000Z
+UID:bu4pLb_cSDfLBiBjUIAIdx0G@stanza.co
+SUMMARY:Hornets vs. Grizzlies (L: 117-119)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvt$?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Pistons
+END:VALARM
+DTSTART:20191116T000000Z
+DTEND:20191116T030000Z
+UID:20lr04cr8dnbAC18zNISy478@stanza.co
+SUMMARY:Hornets vs. Pistons (W: 109-106)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu2?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Knicks
+END:VALARM
+DTSTART:20191117T003000Z
+DTEND:20191117T033000Z
+UID:hZ-ykcVdlFl5ydXgTrBQUKNM@stanza.co
+SUMMARY:Hornets at Knicks (W: 103-102)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu3?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Madison Square Garden\, 4 Pennsylvania Plaza\, New York\, NY 10001
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Raptors
+END:VALARM
+DTSTART:20191119T003000Z
+DTEND:20191119T033000Z
+UID:q7lcF3WCtdnKYIr2QDwf3Q6g@stanza.co
+SUMMARY:Hornets at Raptors (L: 96-132)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu4?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Scotiabank Arena\, 40 Bay St\, Toronto\, ON M5J 2X2\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Nets
+END:VALARM
+DTSTART:20191121T003000Z
+DTEND:20191121T033000Z
+UID:jFYMPs1KjsAtL6m9OcsA9Tw1@stanza.co
+SUMMARY:Hornets at Nets (L: 91-101)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu5?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Barclays Center\, 620 Atlantic Ave\, Brooklyn\, NY 11217
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Wizards
+END:VALARM
+DTSTART:20191123T000000Z
+DTEND:20191123T030000Z
+UID:L2WlFOcVeuyrJJYZtKIaCIqj@stanza.co
+SUMMARY:Hornets at Wizards (L: 118-125)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu6?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Capital One Arena\, 601 F St NW\, Washington\, DC 20004
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Bulls
+END:VALARM
+DTSTART:20191124T000000Z
+DTEND:20191124T030000Z
+UID:06ROIim3LMgPl0YFU6y9z5uW@stanza.co
+SUMMARY:Hornets vs. Bulls (L: 115-116)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu8?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Heat
+END:VALARM
+DTSTART:20191126T003000Z
+DTEND:20191126T033000Z
+UID:0LDR12T4c45P94Kwh_y45Pud@stanza.co
+SUMMARY:Hornets at Heat (L: 100-117)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu9?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:American Airlines Arena\, 601 Biscayne Blvd\, Miami\, FL 33132
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Pistons
+END:VALARM
+DTSTART:20191128T000000Z
+DTEND:20191128T030000Z
+UID:ALudWC-5CJU9MrNpJiJ3P69x@stanza.co
+SUMMARY:Hornets vs. Pistons (W: 102-101)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvua?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Pistons
+END:VALARM
+DTSTART:20191130T000000Z
+DTEND:20191130T030000Z
+UID:0QcgtXRe4Hsb_OcUE7cV7Zpu@stanza.co
+SUMMARY:Hornets at Pistons (W: 110-107)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuc?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Little Caesars Arena\, 2645 Woodward Avenue\, Detroit\, MI 48201
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Bucks
+END:VALARM
+DTSTART:20191201T010000Z
+DTEND:20191201T040000Z
+UID:-B0cBEKF9FQ_o1sJaS0AjBwo@stanza.co
+SUMMARY:Hornets at Bucks (L: 96-137)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvud?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Bradley Center\, 1001 North 4th\, Milwaukee\, WI 53203
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Suns
+END:VALARM
+DTSTART:20191203T000000Z
+DTEND:20191203T030000Z
+UID:J8aVUBm-kMV8Fm5dU-fC7kd5@stanza.co
+SUMMARY:Hornets vs. Suns (L: 104-109)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvue?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Warriors
+END:VALARM
+DTSTART:20191205T000000Z
+DTEND:20191205T030000Z
+UID:k7gaBXeau_C9ruQRlJYPsW3H@stanza.co
+SUMMARY:Hornets vs. Warriors (W: 106-91)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuh?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Nets
+END:VALARM
+DTSTART:20191207T000000Z
+DTEND:20191207T030000Z
+UID:lg7m6S2U-hlzRt5Tb01zxYBn@stanza.co
+SUMMARY:Hornets vs. Nets (L: 104-111)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvui?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Hawks
+END:VALARM
+DTSTART:20191208T220000Z
+DTEND:20191209T010000Z
+UID:3FMMgb_D2F3anHYc83wKFgd2@stanza.co
+SUMMARY:Hornets vs. Hawks (L: 107-122)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvul?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Wizards
+END:VALARM
+DTSTART:20191211T000000Z
+DTEND:20191211T030000Z
+UID:-8Ly_HJNc1IB-1K5xukWQbqM@stanza.co
+SUMMARY:Hornets vs. Wizards (W: 114-107)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvum?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Nets
+END:VALARM
+DTSTART:20191212T003000Z
+DTEND:20191212T033000Z
+UID:X92hy7sHnP0zwIjv0QcvRINf@stanza.co
+SUMMARY:Hornets at Nets (W: 113-108)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuo?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Barclays Center\, 620 Atlantic Ave\, Brooklyn\, NY 11217
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Bulls
+END:VALARM
+DTSTART:20191214T010000Z
+DTEND:20191214T040000Z
+UID:saHeqBmLbsIdjMTNstOs0zpz@stanza.co
+SUMMARY:Hornets at Bulls (W: 83-73)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvup?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Pacers
+END:VALARM
+DTSTART:20191215T220000Z
+DTEND:20191216T010000Z
+UID:pPjjQ1DcSvtvP8WcpAjk3vbr@stanza.co
+SUMMARY:Hornets at Pacers (L: 85-107)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuq?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Bankers Life Fieldhouse\, 125 S Pennsylvania St\, Indianapolis\, IN 46204
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Kings
+END:VALARM
+DTSTART:20191218T000000Z
+DTEND:20191218T030000Z
+UID:pe-IHNHRAoFkXp7QmXvOd7x2@stanza.co
+SUMMARY:Hornets vs. Kings (W: 110-102)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvur?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Cavaliers
+END:VALARM
+DTSTART:20191219T000000Z
+DTEND:20191219T030000Z
+UID:WmKUWAum93L4EIQQhw_yQUf5@stanza.co
+SUMMARY:Hornets at Cavaliers (L: 98-100)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvut?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Quicken Loans Arena\, 1 Center Ct\, Cleveland\, OH 44115
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Jazz
+END:VALARM
+DTSTART:20191221T220000Z
+DTEND:20191222T010000Z
+UID:DnqV5S9D08KbqgWYBSj5Bsf3@stanza.co
+SUMMARY:Hornets vs. Jazz (L: 107-114)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuu?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Celtics
+END:VALARM
+DTSTART:20191222T230000Z
+DTEND:20191223T020000Z
+UID:ItUPX9F2HoAksbhK55xA-z-P@stanza.co
+SUMMARY:Hornets at Celtics (L: 93-119)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuw?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:TD Garden\, 100 Legends Way\, Boston\, MA 02114
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Thunder
+END:VALARM
+DTSTART:20191228T000000Z
+DTEND:20191228T030000Z
+UID:O15uBiYQr3HC2qjRDiBRVhRc@stanza.co
+SUMMARY:Hornets vs. Thunder (L: 102-104)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuy?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Grizzlies
+END:VALARM
+DTSTART:20191230T010000Z
+DTEND:20191230T040000Z
+UID:GHuXOMp4Wb6iwESqNnjiDvmV@stanza.co
+SUMMARY:Hornets at Grizzlies (L: 104-117)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvuz?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:FedEx Forum\, 191 Beale St\, Memphis\, TN 38103
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Celtics
+END:VALARM
+DTSTART:20191231T200000Z
+DTEND:20191231T230000Z
+UID:7GlE9yL2C3arSMBwwAJZ95QM@stanza.co
+SUMMARY:Hornets vs. Celtics (L: 92-109)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuA?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Cavaliers
+END:VALARM
+DTSTART:20200103T000000Z
+DTEND:20200103T030000Z
+UID:yutJN5XfSJvLG-KZrRQLIzVq@stanza.co
+SUMMARY:Hornets at Cavaliers (W: 109-106)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Quicken Loans Arena\, 1 Center Ct\, Cleveland\, OH 44115
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Mavericks
+END:VALARM
+DTSTART:20200105T013000Z
+DTEND:20200105T043000Z
+UID:5AtkWfhT61kAd-UOLqLdUFjK@stanza.co
+SUMMARY:Hornets at Mavericks (W: 123-120)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuD?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:American Airlines Center\, 2500 Victory Ave\, Dallas\, TX 75219
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Pacers
+END:VALARM
+DTSTART:20200107T000000Z
+DTEND:20200107T030000Z
+UID:oKY0Yd1RxhioMicAe3_rsaM0@stanza.co
+SUMMARY:Hornets vs. Pacers (L: 104-115)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuF?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Raptors
+END:VALARM
+DTSTART:20200109T000000Z
+DTEND:20200109T030000Z
+UID:YkwwIBMm1C5s71FhvvRyWzey@stanza.co
+SUMMARY:Hornets vs. Raptors (L: 110-112)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuG?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Jazz
+END:VALARM
+DTSTART:20200111T020000Z
+DTEND:20200111T050000Z
+UID:bdyq7uh-NzPVYKThu_tJ_ndY@stanza.co
+SUMMARY:Hornets at Jazz (L: 92-109)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuI?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Vivint Smart Home Arena\, 301 S Temple\, Salt Lake City\, UT 84101
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Suns
+END:VALARM
+DTSTART:20200113T010000Z
+DTEND:20200113T040000Z
+UID:8xfvGoggGi1RaDpAe-fX2kvD@stanza.co
+SUMMARY:Hornets at Suns (L: 92-100)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuJ?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Talking Stick Resort Arena\, 201 E Jefferson St\, Phoenix\, AZ 85004
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Trail Blazers
+END:VALARM
+DTSTART:20200114T030000Z
+DTEND:20200114T060000Z
+UID:ZZbs6sFM_IwTuCnJ9c5jFdO0@stanza.co
+SUMMARY:Hornets at Trail Blazers (L: 112-115)
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuK?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Moda Center\, 1 N Center Ct St\, Portland\, OR 97227
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Nuggets
+END:VALARM
+DTSTART:20200116T020000Z
+DTEND:20200116T050000Z
+UID:3-xtYRt1G6_TF-yqkOr7VrPb@stanza.co
+SUMMARY:Hornets at Nuggets
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuL?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Pepsi Center\, 1000 Chopper Cir\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Magic
+END:VALARM
+DTSTART:20200120T220000Z
+DTEND:20200121T010000Z
+UID:lqVPi4ptOUYPq5KA4sa8q6uQ@stanza.co
+SUMMARY:Hornets vs. Magic
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuM?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Bucks
+END:VALARM
+DTSTART:20200124T200000Z
+DTEND:20200124T230000Z
+UID:77StpIGD3jWZDEnvnlj7w8Gf@stanza.co
+SUMMARY:Hornets vs. Bucks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Knicks
+END:VALARM
+DTSTART:20200129T000000Z
+DTEND:20200129T030000Z
+UID:dE6XeAxVi02GJQwXSM52OuhL@stanza.co
+SUMMARY:Hornets vs. Knicks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuR?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Wizards
+END:VALARM
+DTSTART:20200131T000000Z
+DTEND:20200131T030000Z
+UID:sQ6wvVuYnhWy2FWripTMaZhI@stanza.co
+SUMMARY:Hornets at Wizards
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuS?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Capital One Arena\, 601 F St NW\, Washington\, DC 20004
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Spurs
+END:VALARM
+DTSTART:20200202T020000Z
+DTEND:20200202T050000Z
+UID:RdUjMqlXn3St4fS0XgpPDjN6@stanza.co
+SUMMARY:Hornets at Spurs
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuT?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:AT&T Center\, 1 AT&T Center Parkway\, San Antonio\, TX 78219
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Magic
+END:VALARM
+DTSTART:20200204T000000Z
+DTEND:20200204T030000Z
+UID:-vbORjblolRwIwlFwrikUcMY@stanza.co
+SUMMARY:Hornets vs. Magic
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuV?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Rockets
+END:VALARM
+DTSTART:20200205T010000Z
+DTEND:20200205T040000Z
+UID:z5ZLKXvcnv30f1TcEQTeDKNy@stanza.co
+SUMMARY:Hornets at Rockets
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuW?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Toyota Center\, 1510 Polk St\, Houston\, TX 77002
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Mavericks
+END:VALARM
+DTSTART:20200209T000000Z
+DTEND:20200209T030000Z
+UID:GleZ0rAWSfX913VVsBabx2xZ@stanza.co
+SUMMARY:Hornets vs. Mavericks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuY?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Pistons
+END:VALARM
+DTSTART:20200211T000000Z
+DTEND:20200211T030000Z
+UID:6BFbk9NS5GX3sAB1WBsze-2W@stanza.co
+SUMMARY:Hornets at Pistons
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvuZ?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Little Caesars Arena\, 2645 Woodward Avenue\, Detroit\, MI 48201
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Wolves
+END:VALARM
+DTSTART:20200213T010000Z
+DTEND:20200213T040000Z
+UID:g68_ZiLP6Ly3qo44uoBInBX5@stanza.co
+SUMMARY:Hornets at Wolves
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Target Center\, 600 N 1st Ave\, Minneapolis\, MN 55403
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Bulls
+END:VALARM
+DTSTART:20200221T010000Z
+DTEND:20200221T040000Z
+UID:eXEjR8zVEqaXWg9mNnPgjyZi@stanza.co
+SUMMARY:Hornets at Bulls
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvu$?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Nets
+END:VALARM
+DTSTART:20200223T000000Z
+DTEND:20200223T030000Z
+UID:j5CUmexgjYoUyN62IPanLBvW@stanza.co
+SUMMARY:Hornets vs. Nets
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvv0?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Pacers
+END:VALARM
+DTSTART:20200226T000000Z
+DTEND:20200226T030000Z
+UID:rXDotMbho60z_I_N9HcSxNQs@stanza.co
+SUMMARY:Hornets at Pacers
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvv2?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Bankers Life Fieldhouse\, 125 S Pennsylvania St\, Indianapolis\, IN 46204
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Knicks
+END:VALARM
+DTSTART:20200227T000000Z
+DTEND:20200227T030000Z
+UID:5G8f8HuVKLvnKsLGgKKRBYqc@stanza.co
+SUMMARY:Hornets vs. Knicks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvv3?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Raptors
+END:VALARM
+DTSTART:20200229T003000Z
+DTEND:20200229T033000Z
+UID:9mTtMQL_ArmLpRI61EE9UaAG@stanza.co
+SUMMARY:Hornets at Raptors
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvv5?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Scotiabank Arena\, 40 Bay St\, Toronto\, ON M5J 2X2\, Canada
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Bucks
+END:VALARM
+DTSTART:20200301T180000Z
+DTEND:20200301T210000Z
+UID:GoxlP8WgaizL-6QqoAlM2nD6@stanza.co
+SUMMARY:Hornets vs. Bucks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvv7?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Spurs
+END:VALARM
+DTSTART:20200304T000000Z
+DTEND:20200304T030000Z
+UID:DVOsUv6qg1Umw4eOghP7CqcQ@stanza.co
+SUMMARY:Hornets vs. Spurs
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvv9?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Nuggets
+END:VALARM
+DTSTART:20200306T000000Z
+DTEND:20200306T030000Z
+UID:Qx6FltWs5UqShUTDod7bSCz2@stanza.co
+SUMMARY:Hornets vs. Nuggets
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvb?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Rockets
+END:VALARM
+DTSTART:20200307T220000Z
+DTEND:20200308T010000Z
+UID:QdyKBz8WfzRWMloFnSuQ0VzM@stanza.co
+SUMMARY:Hornets vs. Rockets
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvc?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Hawks
+END:VALARM
+DTSTART:20200309T233000Z
+DTEND:20200310T023000Z
+UID:LafixcfSBANChVLu0Glu1YDQ@stanza.co
+SUMMARY:Hornets at Hawks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvve?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:State Farm Arena\, 1 Philips Dr\, Atlanta\, GA 30303
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Heat
+END:VALARM
+DTSTART:20200311T233000Z
+DTEND:20200312T023000Z
+UID:Qewc0_0K2vDP8r-y4HGORpye@stanza.co
+SUMMARY:Hornets at Heat
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvf?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:American Airlines Arena\, 601 Biscayne Blvd\, Miami\, FL 33132
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Cavaliers
+END:VALARM
+DTSTART:20200313T230000Z
+DTEND:20200314T020000Z
+UID:t79KA8OMS0jW7HJtgLHtQmbz@stanza.co
+SUMMARY:Hornets vs. Cavaliers
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvh?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Magic
+END:VALARM
+DTSTART:20200315T220000Z
+DTEND:20200316T010000Z
+UID:6_cGC5Y3UNqDIobxsbUlWOct@stanza.co
+SUMMARY:Hornets at Magic
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvi?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Amway Center\, 400 W Church St #200\, Orlando\, FL 32801
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Knicks
+END:VALARM
+DTSTART:20200317T233000Z
+DTEND:20200318T023000Z
+UID:Rcp9rF2rrkbTwhMAT2pN9mAG@stanza.co
+SUMMARY:Hornets at Knicks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvj?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Madison Square Garden\, 4 Pennsylvania Plaza\, New York\, NY 10001
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. 76ers
+END:VALARM
+DTSTART:20200319T230000Z
+DTEND:20200320T020000Z
+UID:Ox2wDxpI3YLGq7jzWPlDtCaL@stanza.co
+SUMMARY:Hornets vs. 76ers
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvl?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Lakers
+END:VALARM
+DTSTART:20200321T230000Z
+DTEND:20200322T020000Z
+UID:VhOD1r4qyH5leJruuTnn6gZ6@stanza.co
+SUMMARY:Hornets vs. Lakers
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvm?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Trail Blazers
+END:VALARM
+DTSTART:20200324T230000Z
+DTEND:20200325T020000Z
+UID:i1S42Juf7ZgJS8gIKOnkBC2g@stanza.co
+SUMMARY:Hornets vs. Trail Blazers
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvp?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Thunder
+END:VALARM
+DTSTART:20200327T000000Z
+DTEND:20200327T030000Z
+UID:ac4ewZ6KglFOeRfuNRVFIknS@stanza.co
+SUMMARY:Hornets at Thunder
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvq?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Chesapeake Energy Arena\, 100 W Reno Ave\, Oklahoma City\, OK 73102
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Clippers
+END:VALARM
+DTSTART:20200328T230000Z
+DTEND:20200329T020000Z
+UID:lXEF9oIUnwgnAFa6B1yxxVeZ@stanza.co
+SUMMARY:Hornets vs. Clippers
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvr?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Heat
+END:VALARM
+DTSTART:20200330T230000Z
+DTEND:20200331T020000Z
+UID:__NR5doU7mFxX39DM1gczQJS@stanza.co
+SUMMARY:Hornets vs. Heat
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvt?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Magic
+END:VALARM
+DTSTART:20200401T230000Z
+DTEND:20200402T020000Z
+UID:sUsmGJFP_nRsxPfsPulb8skO@stanza.co
+SUMMARY:Hornets at Magic
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvv?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Amway Center\, 400 W Church St #200\, Orlando\, FL 32801
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Hawks
+END:VALARM
+DTSTART:20200403T233000Z
+DTEND:20200404T023000Z
+UID:f6-6B1M4j4HtW2V4fx-R2tUS@stanza.co
+SUMMARY:Hornets at Hawks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvw?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:State Farm Arena\, 1 Philips Dr\, Atlanta\, GA 30303
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Hawks
+END:VALARM
+DTSTART:20200405T170000Z
+DTEND:20200405T200000Z
+UID:8P88fpBw8Ew5zk0abhjUza7h@stanza.co
+SUMMARY:Hornets vs. Hawks
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvx?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at Pelicans
+END:VALARM
+DTSTART:20200408T000000Z
+DTEND:20200408T030000Z
+UID:8BiuanWJsRJCC4NAJ-W2YlBh@stanza.co
+SUMMARY:Hornets at Pelicans
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~Gvvz?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Smoothie King Center\, 1501 Dave Dixon Dr\, New Orleans\, LA 70113
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Raptors
+END:VALARM
+DTSTART:20200408T230000Z
+DTEND:20200409T020000Z
+UID:I28sbhXlCSo7tmYpYdkVheC2@stanza.co
+SUMMARY:Hornets vs. Raptors
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvvB?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Wizards
+END:VALARM
+DTSTART:20200411T230000Z
+DTEND:20200412T020000Z
+UID:8fSjNM36j3GCjMKKUr88vGFn@stanza.co
+SUMMARY:Hornets vs. Wizards
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvvC?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets vs. Heat
+END:VALARM
+DTSTART:20200413T230000Z
+DTEND:20200414T020000Z
+UID:tYpoYBk2T3hJwpqLQCql1aV7@stanza.co
+SUMMARY:Hornets vs. Heat
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvvF?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Spectrum Center\, 333 E Trade St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Hornets at 76ers
+END:VALARM
+DTSTART:20200415T233000Z
+DTEND:20200416T023000Z
+UID:nrCjvoT6N54v7z5V8pJhpzLL@stanza.co
+SUMMARY:Hornets at 76ers
+DESCRIPTION:Download the Official Charlotte Hornets Mobile App:\nhttp://www.nba.com/hornets/mobile-app\n\nWatch Live on: Fox Sports Southeast - Charlotte\n\nListen Live on: WFNZ 610 AM or the Official Charlotte Hornets Mobile App\n\n🎟️ Buy tickets here: https://stza.co/~GvvG?trk=NlcZ\n\n--\n\nSynced via Stanza: stanza.co\nHelp center: stanzaco.zendesk.com
+LOCATION:Wells Fargo Center Philadelphia\, 3601 S Broad St\, Philadelphia\, PA 19148
+STATUS:CONFIRMED
+DTSTAMP:20200114T234004Z
+CREATED:20200114T234004Z
+LAST-MODIFIED:20200114T234004Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

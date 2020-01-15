@@ -36,7 +36,8 @@ bindsym $mod+Shift+q kill
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+# bindsym# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+ $mod+d exec --no-startup-id i3-dmenu-desktop
 bindsym $mod+d exec --no-startup-id rofi -show drun
 bindsym $mod+bar exec --no-startup-id rofi -show run
 
@@ -191,17 +192,10 @@ exec wal --theme base16-bright
 #protects against cursor jumps due to palms hitting touchpad while typing
 exec --no-startup-id syndaemon -i .5 -K -R -v -d
 
-#implements "natural scrolling" -- move fingers up to move view down (i.e. move content up with fingers)
-exec --no-startup-id synclient HorizEdgeScroll=1 VertEdgeScroll=1 VertScrollDelta=-111
-
 exec_always --no-startup-id kill $(ps -aux | grep [s]potifyTrackChange | awk '{ print $2 }') &&  ~/Documents/ProgrammingProjects/dotFiles/systemScripts/spotifyTrackChange.py
 #The above line should kill all instances of my track change Daemon every time the i3 env is reloaded! A fresh instance will then be started afterwards.
 
-#exec_always --no-startup-id feh --bg-max /home/evamvid/Pictures/Take_OFF.png
 exec_always feh --randomize --bg-fill ~/Pictures/i3Wallpapers
-
-#exec_always --no-startup-id mopidy
-#exec_always --no-startup-id devilspie2 -f ~/Documents/ProgrammingProjects/dotFiles/systemScripts
 
 exec --no-startup-id lsd /home/evamvid/Documents/TU\ Darmstadt/budgets | entr sh gitPush.sh
 
@@ -230,12 +224,6 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86Tools exec gnome-calculator
 
-#bindsym XF86AudioRaiseVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh increase
-#bindsym XF86AudioLowerVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh decrease
-
-#bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 0 +1dB
-#bindsym XF86AudioLowerVolume exec pactl set-sink-volume 0 -1dB
-
 bindsym XF86AudioRaiseVolume exec amixer set Master 5%+
 bindsym XF86AudioLowerVolume exec amixer set Master 5%-
 
@@ -249,18 +237,13 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5
 
 bindsym $mod+u exec pavucontrol
 
-#exec --no-startup-id i3-msg 'workspace number 4; exec --no-startup-id urxvt -hold -e ranger; split horizontal; exec sleep 0.5; exec --no-startup-id urxvt -hold -e ncmpcpp'
-
 font -*-inconsolata-g-medium-r-normal-*-17-*-*-*-*-0-ascii-0
 
 gaps inner 7
 
 for_window [class="^.*"] border pixel 5
 
-#exec --no-startup-id setxkbmap us,de -option 'grp:win_space_toggle'
 exec --no-startup-id setxkbmap us,de
-
-exec --no-startup-id  xinput --set-prop 11 "libinput Natural Scrolling Enabled" 1
 
 bindsym $mod+space exec xkb-switch -n
 
