@@ -131,12 +131,12 @@ font-5 = Inconsolata:size=9
 
 position = top
 
-;modules-left = i3 temperature cpu memory filesystem f1Countdown weather
-modules-left = i3 temperature cpu memory filesystem weather
+modules-left = i3 temperature cpu memory filesystem f1Countdown weather
+;modules-left = i3 temperature cpu memory filesystem weather
 ;modules-center  =   mpd
 modules-center =  mpdLabelScroll mpdButtons 
 ;modules-right = xbacklight volume xkeyboard battery eth wlan date powermenu
-modules-right = updateCounter xbacklight volume xkeyboard battery eth wlan date
+modules-right = xbacklight volume xkeyboard battery eth wlan date
 
 ;wm-restack = 
 

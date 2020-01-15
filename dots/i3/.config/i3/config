@@ -25,8 +25,8 @@ font pango:monospace 8
 floating_modifier $mod
 
 # start a terminal
-#bindsym $mod+Return exec urxvt
-bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec urxvt
+#bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -233,8 +233,11 @@ bindsym XF86Tools exec gnome-calculator
 #bindsym XF86AudioRaiseVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh increase
 #bindsym XF86AudioLowerVolume exec ~/Documents/ProgrammingProjects/dotFiles/systemScripts/oneVolume.sh decrease
 
-bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 0 +1dB
-bindsym XF86AudioLowerVolume exec pactl set-sink-volume 0 -1dB
+#bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 0 +1dB
+#bindsym XF86AudioLowerVolume exec pactl set-sink-volume 0 -1dB
+
+bindsym XF86AudioRaiseVolume exec amixer set Master 5%+
+bindsym XF86AudioLowerVolume exec amixer set Master 5%-
 
 bindsym XF86AudioMute exec amixer -q set Master toggle
  
@@ -255,7 +258,7 @@ gaps inner 7
 for_window [class="^.*"] border pixel 5
 
 #exec --no-startup-id setxkbmap us,de -option 'grp:win_space_toggle'
-exec --no-startup-id setxbmap us,de
+exec --no-startup-id setxkbmap us,de
 
 exec --no-startup-id  xinput --set-prop 11 "libinput Natural Scrolling Enabled" 1
 
