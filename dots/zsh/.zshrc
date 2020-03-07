@@ -101,7 +101,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
-alias ls="lsd -l --date relative --group-dirs first"
+alias ls="lsd -l --blocks size,date,name --date relative --size short --group-dirs first"
 alias vscodium="vscodium --disable-gpu"
 
 eval $(thefuck --alias)

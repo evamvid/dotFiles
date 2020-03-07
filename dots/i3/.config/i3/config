@@ -25,8 +25,7 @@ font pango:monospace 8
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec urxvt
-#bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec kitty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -36,16 +35,18 @@ bindsym $mod+Shift+q kill
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-# bindsym# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
- $mod+d exec --no-startup-id i3-dmenu-desktop
-bindsym $mod+d exec --no-startup-id rofi -show drun
-bindsym $mod+bar exec --no-startup-id rofi -show run
+#bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+bindsym $mod+d exec --no-startup-id rofi -show drun -theme paper
+bindsym $mod+bar exec --no-startup-id rofi -show run -theme paper
+bindsym $mod+apostrophe exec --no-startup-id rofi -show drun -theme sidelauncher
+bindsym $mod+semicolon exec --no-startup-id rofi -show window -theme sideswitcher
+
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus down
-bindsym $mod+l focus up
-bindsym $mod+semicolon focus right
+#bindsym $mod+j focus left
+#bindsym $mod+k focus down
+#bindsym $mod+l focus up
+#bindsym $mod+semicolon focus right
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
@@ -172,7 +173,7 @@ bindsym XF86Back workspace prev
 exec_always --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always --no-startup-id compton
+exec_always --no-startup-id picom -b
 
 exec --no-startup-id rofi -show drun
 exec --no-startup-id killall rofi
@@ -183,14 +184,18 @@ exec --no-startup-id gnome-sound-applet
 
 exec_always --no-startup-id touch /tmp/albumArt.png
 
+exec_always --no-startup-id xrdb ~/.Xresources
 #exec wal --theme sexy-derp
 #exec wal --theme sexy-mikado
 #exec wal --theme sexy-colorfulcolors
-exec wal --theme base16-bright
+exec_always --no-startup-id wal --theme base16-bright
 #exec wal --theme base16-google
 
 #protects against cursor jumps due to palms hitting touchpad while typing
 exec --no-startup-id syndaemon -i .5 -K -R -v -d
+
+#sets the sound card master volume to 100% so that the top-firing speakers work. Note that this is distinct to the PCM volume, which is what you can adjust from i3 and with the volume keys.
+exec --no-startup-id amixer -c0 set Master 100%
 
 exec_always --no-startup-id kill $(ps -aux | grep [s]potifyTrackChange | awk '{ print $2 }') &&  ~/Documents/ProgrammingProjects/dotFiles/systemScripts/spotifyTrackChange.py
 #The above line should kill all instances of my track change Daemon every time the i3 env is reloaded! A fresh instance will then be started afterwards.
@@ -223,6 +228,11 @@ bindsym XF86AudioStop exec playerctl stop
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86Tools exec gnome-calculator
+
+bindsym $mod+j exec playerctl play-pause
+bindsym $mod+k exec playerctl previous
+bindsym $mod+l exec playerctl next
+
 
 bindsym XF86AudioRaiseVolume exec amixer set Master 5%+
 bindsym XF86AudioLowerVolume exec amixer set Master 5%-

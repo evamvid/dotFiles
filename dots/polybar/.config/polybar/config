@@ -24,16 +24,16 @@ blue = #337CA0
 yellow = #FFFC31
 green = #3EC300
 #background = #ff1f222d
-background = ${xrdb:background}
+#background = ${xrdb:background}
 background-alt = #ff40545E
-#foreground = #dfdfdf
-foreground = ${xrdb:foreground}
+foreground = #dfdfdf
+#foreground = ${xrdb:foreground}
 foreground-alt = #55
-#primary = #1f222d
-primary = ${xrdb:color1:#222}
-secondary = ${xrdb:color2:#222}
+primary = #1f222d
+#primary = ${xrdb:color1:#222}
+#secondary = ${xrdb:color2:#222}
 alert = ${xrdb:color3:#222}
-#secondary = #FF6200
+secondary = #FF6200
 #alert = #bd2c40
 
 navy = #002B75
@@ -72,6 +72,28 @@ color14 = ${xrdb:color14:#222}
 color15 = ${xrdb:color15:#222}
 
 
+[colors]
+; Base colors from .Xresources
+bg          =  ${xrdb:background}
+bg-alt      =  #202020
+fg          =  ${xrdb:foreground}
+fg-alt      =  ${xrdb:color8}
+red-mbs         =  ${xrdb:color1}
+red-mbs-alt     =  ${xrdb:color9}
+green-mbs       =  ${xrdb:color2}
+green-mbs-alt   =  ${xrdb:color10}
+yellow-mbs      =  ${xrdb:color3}
+yellow-mbs-alt  =  ${xrdb:color11}
+blue-mbs        =  ${xrdb:color4}
+blue-mbs-alt    =  ${xrdb:color12}
+magenta-mbs     =  ${xrdb:color5}
+magenta-mbs-alt =  ${xrdb:color13}
+cyan-mbs        =  ${xrdb:color6}
+cyan-mbs-alt    =  ${xrdb:color14}
+white-mbs       =  ${xrdb:color7}
+white-mbs-alt   =  ${xrdb:color15}
+
+
 
 
 [bar/main]
@@ -81,19 +103,8 @@ height = 23
 offset-x = 0%
 offset-y = 0%
 radius = 1.0
-;fixed-center = true
 
 tray-position = right
-;tray-padding = 0
-
-;tray-maxsize = 16
-;tray-detached = false
-;tray-transparent = false
-
-;tray-scale = 1.0
-
-
-
 
 padding = 0
 
@@ -112,26 +123,17 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 1
 
-#font-0 = fixed:pixelsize=10;1
-#font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
-#font-2 = siji:pixelsize=10;1
-
-
 font-0 = Sans-Regular:size=8;1
 font-1 = Siji:size=12;1
 font-2 = "FontAwesome:style=Bold:pixelsize=12;1"
 font-3 = "FontAwesome:style=Bold:pixelsize=12;1"
 font-4 = "FontAwesome:style=Bold=12;1"
 font-5 = Inconsolata:size=9
-#font-2 = "Font Awesome 5 Free Regular:style=Regular:pixelsize=8;1"
-#font-3 = "Font Awesome 5 Brands Regular:style=Regular:pixelsize=8;1"
-#font-4 = "Font Awesome 5 Free Solid:style=Solid:pixelsize=8;1"
-
 
 
 position = top
 
-modules-left = i3 temperature cpu memory filesystem f1Countdown hornetsCountdown weather
+modules-left = i3 temperature cpu memory f1Countdown hornetsCountdown weather
 ;modules-left = i3 temperature cpu memory filesystem weather
 ;modules-center  =   mpd
 modules-center =  mpdLabelScroll mpdButtons 
@@ -144,6 +146,99 @@ override-redirect = false
 
 scroll-up = i3wm-wsnext
 scroll-down = i3wm-wsprev
+
+[bar/main_bottom]
+;monitor = 8
+width = 100%
+height = 25
+offset-x = 0%
+offset-y = 0%
+radius = 1.0
+position = bottom
+bottom = true
+
+tray-position = right
+
+padding = 0
+
+background = #88424242
+foreground = ${colors.foreground}
+
+line-size = 3
+line-color = #f00
+
+border-size = 4
+border-color = #00000000
+
+padding-left = 0
+padding-right = 2
+
+module-margin-left = 1
+module-margin-right = 1
+
+font-0 = Sans-Regular:size=8;1
+font-1 = Siji:size=12;1
+font-2 = "FontAwesome:style=Bold:pixelsize=12;1"
+font-3 = "FontAwesome:style=Bold:pixelsize=12;1"
+font-4 = "FontAwesome:style=Bold=12;1"
+font-5 = Inconsolata:size=9
+
+modules-left = f1Countdown hornetsCountdown weather
+;modules-left =  weather
+;modules-center  =   mpd
+modules-center =  mpdLabelScroll 
+modules-right = xbacklight volume xkeyboard battery 
+
+;wm-restack = 
+
+override-redirect = false
+
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+
+
+[bar/mohabaks]
+;monitor   = ${env:MONITOR:eDP1}
+bottom    = false
+;width     = 100%
+height    = 35
+offset-x  = 0
+offset-y  = 0
+override-redirect = false
+
+background = ${colors.bg}
+foreground = ${colors.fg}
+
+border-bottom-size = 5
+border-bottom-color = #00000000
+border-top-size = 5
+border-top-color = #00000000
+radius = 5
+
+border-color = #00000000
+border-left-size = 6
+border-right-size = 6
+
+spacing = 0
+padding-left = 1
+padding-right = 1
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = Fixed:pixelsize=11;3
+font-1 = Siji:pixelsize=14;3
+;font-1 = Material Icons:antialia=false:size=11;4
+font-2 = "FontAwesome:style=Bold:pixelsize=14;1"
+
+
+tray-position = none
+tray-padding = 1
+tray-transparent = true
+tray-background = #000000
+
+modules-left = i3-mohabaks
+modules-center = temperature-mohabaks cpu-mohabaks memory-mohabaks 
+modules-right = wlan-mohabaks date-mohabaks battery-mohabaks
 
 [module/f1Countdown]
 type = custom/script
@@ -300,6 +395,135 @@ ws-icon-9 = 10;
 ws-icon-default =
 
 
+[module/i3-mohabaks]
+type = internal/i3
+
+strip-wsnumbers = true
+
+;label-focused = " [%name%] "
+label-focused = "  "
+label-focused-foreground = ${colors.red-mbs}
+;label-focused-background = ${colors.magenta}
+label-focused-padding = 
+
+;label-unfocused = " {%name%} "
+label-unfocused = "  "
+label-unfocused-padding = 0
+label-unfocused-foreground = #666
+;label-unfocused-background = ${colors.bg-alt}
+
+;label-urgent = " [%name%] "
+label-urgent = "  "
+label-urgent-foreground = ${colors.cyan-mbs}
+;label-urgent-background = ${colors.cyan}
+label-urgent-padding = 1
+
+;label-visible = " (%name%) "
+label-visible = "  "
+label-visible-foreground = #666
+;label-visible-background = ${colors.bg-alt}
+label-visible-padding = 0
+
+
+[module/cpu-mohabaks]
+type = internal/cpu
+interval = 2
+format-prefix = " "
+format-prefix-foreground = ${colors.cyan-mbs}
+label = "%percentage% "
+
+[module/memory-mohabaks]
+type = internal/memory
+interval = 2
+format-prefix = " "
+format-prefix-foreground = ${colors.magenta-mbs}
+label = "%percentage_used% "
+
+
+[module/wlan-mohabaks]
+type = internal/network
+interface = wlp0s20f3
+interval = 3.0
+
+format-connected = <ramp-signal> <label-connected>
+
+label-connected = "%essid% "
+label-connected-foreground = ${colors.fg}
+;label-disconnected = %ifname% disconnected
+;label-disconnected-foreground = ${colors.fg-alt}
+
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-4 = 
+ramp-signal-foreground = ${colors.blue-mbs-alt}
+
+
+[module/battery-mohabaks]
+type = internal/battery
+battery = BAT0
+adapter = ADP1
+full-at = 100
+
+label-discharging = "%percentage%% "
+format-charging = <animation-charging> <label-charging>
+format-discharging = <ramp-capacity> <label-discharging>
+
+label-full = " full "
+format-full-prefix = 
+format-full-prefix-foreground = ${colors.white-mbs-alt}
+
+;format-charging-prefix = 
+;format-charging-prefix-foreground = ${colors.red}
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-foreground = ${colors.cyan-mbs}
+
+label-charging = "Charging %percentage%% "
+label-charging-foreground = ${colors.fg}
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-foreground = ${colors.red-mbs}
+animation-charging-framerate = 750
+
+
+[module/temperature-mohabaks]
+type = internal/temperature
+thermal-zone = 0
+warn-temperature = 60
+
+format = <ramp> <label>
+format-warn = <ramp> <label-warn>
+
+label = "%temperature-c% "
+label-warn = "%temperature-c% "
+label-warn-foreground = ${colors.red-mbs}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-foreground = ${colors.green-mbs}
+
+[module/date-mohabaks]
+type = internal/date
+interval = 5
+
+date =
+date-alt = " %a %d %b %Y"
+
+time = " %H:%M "
+time-alt = " %H:%M "
+
+label = %date%%time%
+
+format-prefix = 
+;format-foreground = ${colors.magenta}
+format-prefix-foreground = ${colors.yellow-mbs}
 
 [module/mpdLabelScroll]
 type = custom/script
