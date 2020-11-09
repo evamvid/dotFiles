@@ -160,11 +160,9 @@ bindsym $mod+d exec wofi --show drun
 #sets the sound card master volume to 100% so that the top-firing speakers work. Note that this is distinct to the PCM volume, which is what you can adjust from i3 and with the volume keys.
 exec --no-startup-id amixer -c0 set Master 100%
 
-bindsym $mod+Escape exec swaylock --blur=10 --clock --indicator --insidecolor=232C31FF --ringcolor=9EA7A6FF --line-uses-inside --keyhlcolor=2A5491FF --bshlcolor=A03B1EFF --insidevercolor=232C31FF --insidewrongcolor=A03B1Eff --ringvercolor=9EA7A6FF --ringwrongcolor=3F4944FF --separatorcolor=2A5491FF --verifcolor=FFFFFFFF --wrongcolor=232C31FF --timecolor=9EA7A6FF --datecolor=9EA7A6FF
+bindsym $mod+Escape exec swaylock -k --inside-color=232C31FF --ring-color=9EA7A6FF --line-uses-inside --key-hl-color=2A5491FF --bs-hl-color=A03B1EFF --inside-ver-color=232C31FF --inside-wrong-color=A03B1Eff --ring-ver-color=9EA7A6FF --ring-wrong-color=3F4944FF --separator-color=2A5491FF --text-wrong-color=232C31FF  --text-ver-color=FFFFFFFF
 
- 
-
-bindsym $mod+Shift+p exec swaylock --blur=10 --clock --indicator --insidecolor=232C31FF --ringcolor=9EA7A6FF --line-uses-inside --keyhlcolor=2A5491FF --bshlcolor=A03B1EFF --insidevercolor=232C31FF --insidewrongcolor=A03B1Eff --ringvercolor=9EA7A6FF --ringwrongcolor=3F4944FF --separatorcolor=2A5491FF --verifcolor=FFFFFFFF --wrongcolor=232C31FF --timecolor=9EA7A6FF --datecolor=9EA7A6FF && systemctl suspend
+bindsym $mod+Shift+p exec swaylock -k --inside-color=232C31FF --ring-color=9EA7A6FF --line-uses-inside --key-hl-color=2A5491FF --bs-hl-color=A03B1EFF --inside-ver-color=232C31FF --inside-wrong-color=A03B1Eff --ring-ver-color=9EA7A6FF --ring-wrong-color=3F4944FF --separator-color=2A5491FF --text-wrong-color=232C31FF  --text-ver-color=FFFFFFFF && systemctl suspend
 
 
 # sound shortcuts
@@ -192,6 +190,12 @@ gaps inner 7
 for_window [class="^.*"] border pixel 5
 
 input 1739:52619:SYNA8004:00_06CB:CD8B_Touchpad natural_scroll enabled
+
+input type:keyboard {
+    xkb_layout us,de
+    xkb_variant ,nodeadkeys
+    xkb_options grp:win_space_toggle
+}
 
 bar {
     swaybar_command waybar

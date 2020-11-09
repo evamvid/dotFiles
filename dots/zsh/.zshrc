@@ -13,6 +13,11 @@ export ZSH="/home/evamvid/.oh-my-zsh"
 #ZSH_THEME="pygmalion"
 ZSH_THEME="gianu"
 
+#autoload -U promptinit; promptinit
+#prompt pure
+
+autoload zmv
+
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
@@ -71,7 +76,7 @@ ZSH_THEME="gianu"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git copyfile z)
+plugins=(git cp pipenv z)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -100,8 +105,26 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-#
 alias ls="lsd -l --blocks size,date,name --date relative --size short --group-dirs first"
 alias vscodium="vscodium --disable-gpu"
 
 eval $(thefuck --alias)
+
+alias yeet='yay -Rsn'
+
+# Transform the arguments into a valid url querystring
+urlencode()
+{
+  local args="$@"
+  jq -nr --arg v "$args" '$v|@uri'; 
+}
+
+# Query duckduckgo
+duckduckgo()
+{
+  lynx "https://lite.duckduckgo.com/lite/?q=$(urlencode "$@")"
+}
+
+alias please='sudo $(fc -ln -1)'
+
+alias server='sudo mount 192.168.1.5:/home/evamvid/media /home/evamvid/server'
