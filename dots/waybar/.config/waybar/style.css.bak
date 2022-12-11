@@ -7,8 +7,8 @@
 }
 
 window#waybar {
-    background: transparent;
-    color: white;
+    background-color: #353530;
+    color: #e1f2f5;
 }
 
 #window {
@@ -98,3 +98,4 @@ window#waybar {
 
 #tray {
 }
+
