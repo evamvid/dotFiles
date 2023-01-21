@@ -188,7 +188,7 @@ bindsym XF86Back workspace prev
 exec_always --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always --no-startup-id picom -b
+#exec_always --no-startup-id picom -b
 
 exec --no-startup-id rofi -show drun
 exec --no-startup-id killall rofi
