@@ -252,8 +252,8 @@ bindsym $mod+k exec playerctl -p spotify previous
 bindsym $mod+l exec playerctl -p spotify next
 
 
-bindsym XF86AudioRaiseVolume exec amixer set Master 5%+
-bindsym XF86AudioLowerVolume exec amixer set Master 5%-
+bindsym XF86AudioRaiseVolume exec pamixer -i 5
+bindsym XF86AudioLowerVolume exec pamixer -d 5
 
 bindsym XF86AudioMute exec amixer -q set Master toggle
  
