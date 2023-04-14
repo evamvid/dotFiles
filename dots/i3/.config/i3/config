@@ -228,7 +228,7 @@ exec --no-startup-id dunst
 
 #i3-gaps
 #gaps inner 10
-#gaps outer 0
+#gaps outer 1
 
 #bindsym $mod+Escape exec i3lock --blur=15 --clock --indicator --insidecolor=232C31FF --ringcolor=9EA7A6FF --line-uses-inside --keyhlcolor=2A5491FF --bshlcolor=A03B1EFF --insidevercolor=232C31FF --insidewrongcolor=A03B1Eff --ringvercolor=9EA7A6FF --ringwrongcolor=3F4944FF --separatorcolor=2A5491FF --verifcolor=FFFFFFFF --wrongcolor=232C31FF --timecolor=9EA7A6FF --datecolor=9EA7A6FF 
 
@@ -281,3 +281,5 @@ bindsym $mod+Shift+minus move scratchpad
 bindsym $mod+minus scratchpad show
 
 bindsym $mod+p exec xrandr --output eDP1 --primary --mode 1920x1080 --pos 0x348 --rotate normal --output DP1 --off --output DP2 --off --output HDMI1 --mode 1920x1080 --pos 1920x0 --rotate right --output VIRTUAL1 --off
+
+exec --no-startup-id batman -b
