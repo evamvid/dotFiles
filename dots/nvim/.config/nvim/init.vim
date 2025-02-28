@@ -1,4 +1,4 @@
-" this file is located at ~/Documents/ProgrammingProjects/dotFiles/.nvimrc,
+" this file is located at  ~/Documents/ProgrammingProjects/dotFiles/dots/nvim/.config/nvim/init.vim,
 " and symlinked to ~/.nvimrc, where neovim will look for it!
 "
 
@@ -17,4 +17,5 @@ call plug#begin('~/.vim/plugged')
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
 Plug 'scrooloose/nerdtree'
 Plug 'lervag/vimtex', { 'for': 'tex' }
+Plug 'airblad/vim-gitgutter'
 call plug#end()

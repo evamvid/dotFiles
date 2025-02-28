@@ -110,7 +110,9 @@ alias vscodium="vscodium --disable-gpu"
 
 eval $(thefuck --alias)
 
-alias yeet='yay -Rsn'
+alias yeet='paru -Rsn'
+
+alias rm='rm -i'
 
 # Transform the arguments into a valid url querystring
 urlencode()
@@ -128,3 +130,6 @@ duckduckgo()
 alias please='sudo $(fc -ln -1)'
 
 alias server='sudo mount 192.168.1.5:/home/evamvid/media /home/evamvid/server'
+
+
+[ -f /opt/miniconda3/etc/profile.d/conda.sh ] && source /opt/miniconda3/etc/profile.d/conda.sh

@@ -247,9 +247,14 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86Tools exec gnome-calculator
 
-bindsym $mod+j exec playerctl -p spotify play-pause
-bindsym $mod+k exec playerctl -p spotify previous
-bindsym $mod+l exec playerctl -p spotify next
+#use these blocks if you want to restrict the shortcuts to spotify, otherwise they'll apply to the active player
+#bindsym $mod+j exec playerctl -p spotify play-pause
+#bindsym $mod+k exec playerctl -p spotify previous
+#bindsym $mod+l exec playerctl -p spotify next
+
+bindsym $mod+j exec playerctl play-pause
+bindsym $mod+k exec playerctl previous
+bindsym $mod+l exec playerctl next
 
 
 bindsym XF86AudioRaiseVolume exec pamixer -i 5
@@ -282,4 +287,8 @@ bindsym $mod+minus scratchpad show
 
 bindsym $mod+p exec xrandr --output eDP1 --primary --mode 1920x1080 --pos 0x348 --rotate normal --output DP1 --off --output DP2 --off --output HDMI1 --mode 1920x1080 --pos 1920x0 --rotate right --output VIRTUAL1 --off
 
-exec --no-startup-id batman -b
+bindsym $mod+o exec xrandr --output eDP1 --primary --mode 1920x1080 --pos 0x348 --rotate normal --output DP1 --off --output DP2 --mode 1920x1080 --pos 3000x348 --rotate normal --output HDMI1 --mode 1920x1080 --pos 1920x0 --rotate right --output VIRTUAL1 --off
+
+exec --no-startup-id batsignal -b
+
+exec systemctl --user import-environment
